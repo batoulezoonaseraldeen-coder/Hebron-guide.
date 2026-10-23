@@ -30,3 +30,4 @@ An AI-powered Retrieval-Augmented Generation (RAG) assistant designed to answer 
    pip install -r requirements.txt
 3.Launch the application:
    python app.py
+   
