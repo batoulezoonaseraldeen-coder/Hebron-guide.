@@ -23,11 +23,11 @@ An AI-powered Retrieval-Augmented Generation (RAG) assistant designed to answer 
 ## 💻 How to Run Locally
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/batoulezoonaseraldeen-coder/Hebron-guide..git](https://github.com/batoulezoonaseraldeen-coder/Hebron-guide..git)
-   cd Hebron-guide.
+  git clone [https://github.com/batoulezoonaseraldeen-coder/Hebron-guide..git](https://github.com/batoulezoonaseraldeen-coder/Hebron-guide..git)
+cd Hebron-guide.
+
 2. Install dependencies:
    pip install -r requirements.txt
-3.Launch the application:
+
+3. Launch the application:
    python app.py
-   
